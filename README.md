@@ -1,0 +1,1 @@
+This repository contains the code used in our manuscript "Mechanistic machine learning identifies optimum radiotherapy schedules to prevent treatment-induced metastasis". The scr.zip file contains the source code for our agent-based simulations. The other files pertain to our machine learning approach to infer simulation parameters (see README2)
