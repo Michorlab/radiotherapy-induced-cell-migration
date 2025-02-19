@@ -1,3 +1,3 @@
-- the main experiments are done in simulation_final.py
+- the main experiments are done in training.py
 - in the file summary.py we can create performance summary
 - in summary_plots.ipynb the plots can be created
